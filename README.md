@@ -12,16 +12,17 @@ Quote-App
 
 .Authors Info
 
-Description: A simple web application using a web API hosted by type.fit and the front end hosted on github pages.
+Description: A simple web application using a web API hosted by type.fit/api/quotes and the front end hosted on github pages.
 
 This application allows the user to look and search for quotes as well as well as add quotes.
 
 Features : The users of the website will be able to :
-scrolling to view quotes
+
+scroll to view quotes
 deleting quotes
 adding quotes
 
-Requirements to use the app : .Access to a computer or any gadget . Accsess to internet connection
+Requirements to use the app : .Access to a computer or any gadget and accsess to internet connection
 
 Installation : .clone the github repo : git clone :https://github.com/lewiih001/quote-app
 
