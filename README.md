@@ -20,9 +20,9 @@ This application allows the user to look and search for quotes as well as well a
 
 Features : The users of the website will be able to :
 
-scroll to view quotes
-deleting quotes
-adding quotes
+generate new quotes
+navigate to view quotes
+delete quotes
 
 Requirements to use the app : .Access to a computer or any gadget and accsess to internet connection
 
