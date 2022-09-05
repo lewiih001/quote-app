@@ -24,6 +24,5 @@ const getNewQuote = async () =>
     text.innerHTML=quote;
     author.innerHTML="~ "+auth;
 
-    
 }
 getNewQuote();
