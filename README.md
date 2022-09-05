@@ -2,17 +2,17 @@ Quote-App
 
 Table Of Content
 
-.Description
+Description
 
-.Features
+Features
 
-.Live link
+Live link :https://lewiih001.github.io/quote-app/
 
-.Technology used
+Technology used
 
-.Licence
+Licence
 
-.Authors Info
+Authors Info
 
 Description: A simple web application using a web API hosted by type.fit/api/quotes and the front end hosted on github pages.
 
