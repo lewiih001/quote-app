@@ -5,7 +5,7 @@ const getNewQuote = async () =>
 {
     //api for showing quotes
     var url="https://type.fit/api/quotes";    
-
+   //generating random quote from api
     const response=await fetch(url);
     console.log(typeof response);
     const allQuotes = await response.json();
