@@ -6,7 +6,7 @@ Description
 
 Features
 
-Live link :https://lewiih001.github.io/quote-app/
+Live link 
 
 Technology used
 
@@ -28,7 +28,7 @@ Requirements to use the app : .Access to a computer or any gadget and accsess to
 
 Installation : .clone the github repo : git clone :https://github.com/lewiih001/quote-app
 
-Live Link:
+Live Link: https://lewiih001.github.io/quote-app/
 
 Technology used : HTML: The markup language was used to build the base structure of the web application
 
