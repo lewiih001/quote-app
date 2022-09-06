@@ -1,6 +1,11 @@
 const text=document.getElementById("quote");
 const author=document.getElementById("author");
+const getPrevQuote = (indx) =>{
+console.log(`${indx} `
 
+    )
+    
+}
 const getNewQuote = async () =>
 {
     //api for showing quotes
@@ -10,9 +15,10 @@ const getNewQuote = async () =>
     console.log(typeof response);
     const allQuotes = await response.json();
 
-    const indx = Math.floor(Math.random()*allQuotes.length);
+    let indx = Math.floor(Math.random()*allQuotes.length);
+    getPrevQuote(indx)
 
-    const quote=allQuotes[indx].text;
+    let quote=allQuotes[indx].text;
 
     const auth=allQuotes[indx].author;
 
@@ -26,3 +32,4 @@ const getNewQuote = async () =>
 
 }
 getNewQuote();
+getPrevQuote();
